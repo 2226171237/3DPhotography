@@ -14,6 +14,8 @@ Jean-Yves Bouguett, Pietro Peronat. 3D photography on your desk[J]. Electrical E
 * 相机标定与光源和平台平面确定：
 <div align="center">
 <img src="./imgs/light.PNG" height="60%" width="60%" >
+<img src="./imgs/obj0.bmp" height="60%" width="60%" >
+<img src="./imgs/depth.PNG" height="60%" width="60%" >
 </div>
 
 * 原始图像：
