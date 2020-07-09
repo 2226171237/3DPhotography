@@ -1,0 +1,9 @@
+﻿  find_light.cpp
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(73): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(126): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\fit_light\fit_light\find_light.cpp(160): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+  fit_light.vcxproj -> E:\opencv\prj\CH11\fit_light\Debug\fit_light.exe
+  fit_light.vcxproj -> E:\opencv\prj\CH11\fit_light\Debug\fit_light.pdb (Full PDB)

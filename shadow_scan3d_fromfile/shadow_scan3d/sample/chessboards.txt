@@ -1,0 +1,2 @@
+./sample/calibration/camera-calibration1.pgm
+./sample/calibration/camera-calibration2.pgm

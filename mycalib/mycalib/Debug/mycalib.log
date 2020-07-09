@@ -1,0 +1,5 @@
+﻿  calib.cpp
+e:\opencv\prj\ch11\mycalib\mycalib\calib.cpp(76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\opencv\prj\ch11\mycalib\mycalib\calib.cpp(77): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  mycalib.vcxproj -> E:\opencv\prj\CH11\mycalib\Debug\mycalib.exe
+  mycalib.vcxproj -> E:\opencv\prj\CH11\mycalib\Debug\mycalib.pdb (Full PDB)
