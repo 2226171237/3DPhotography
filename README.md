@@ -12,9 +12,9 @@ Jean-Yves Bouguett, Pietro Peronat. 3D photography on your desk[J]. Electrical E
 实验结果简单展示：
 <center>
 <figure>
-<img src="./imgs/light.PNG" width="250"/>
-<img src="./imgs/obj0.bmp" width="250"/>
-<img src="./imgs/depth.PNG" width="250"/>
+<img src="./imgs/light.PNG" width="200"/>
+<img src="./imgs/obj0.bmp" width="200"/>
+<img src="./imgs/depth.PNG" width="200"/>
 </figure>
 </center>
 
