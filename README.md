@@ -1,4 +1,4 @@
-三维物体的表面重建
+# 三维物体的表面重建
 
 主要是复现论文：
 Jean-Yves Bouguett, Pietro Peronat. 3D photography on your desk[J]. Electrical Engineering, 2007.
